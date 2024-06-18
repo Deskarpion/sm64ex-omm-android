@@ -10,7 +10,7 @@ This tutorial will guide you through the process of compiling the `sm64ex-omm` (
 ## Tutorial
 
 1. Run the script
-```https://github.com/Deskarpion/sm64ex-omm-android/blob/main/omm%20installer.sh```
+```curl -o omm-installer.sh https://raw.githubusercontent.com/Deskarpion/sm64ex-omm-android/main/omm%20installer.sh && chmod +x omm-installer.sh && ./omm-installer.sh```
    This script will take 20 minutes to 1 hour to complete, depending on your internet connection speed.
 
 4. Once the compilation is finished, the `sm64ex-omm` will be placed in the main folder.
