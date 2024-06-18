@@ -9,21 +9,8 @@ This tutorial will guide you through the process of compiling the `sm64ex-omm` (
 
 ## Tutorial
 
-1. Open the Termux app and grant storage permissions:
-   ```
-   termux-setup-storage
-   ```
-
-2. Update and upgrade the packages in Termux:
-   ```
-   yes|pkg update && yes|pkg upgrade
-   ```
-
-3. Download and run the `sm64ex-omm` compilation script:
-   ```
-   curl -o compiler-omm.sh https://raw.githubusercontent.com/Retired64/Buil-omm/main/compiler-omm.sh && chmod +x compiler-omm.sh && ./compiler-omm.sh
-   ```
-
+1. Run the script
+```https://github.com/Deskarpion/sm64ex-omm-android/blob/main/omm%20installer.sh```
    This script will take 20 minutes to 1 hour to complete, depending on your internet connection speed.
 
 4. Once the compilation is finished, the `sm64ex-omm` will be placed in the main folder.
@@ -32,9 +19,3 @@ This tutorial will guide you through the process of compiling the `sm64ex-omm` (
 
 - Make sure you have the Super Mario 64 US ROM renamed to `baserom.us.z64` and placed in the correct directory.
 - If you encounter any issues during the compilation process, please check the Termux logs or seek help from the community.
-
-## Additional Resources
-
-- [Termux](https://f-droid.org/repo/com.termux_118.apk)
-- [Super Mario 64 (USA).z64](https://github.com/jb1361/Super-Mario-64-AI/blob/development/Super%20Mario%2064%20(USA).z64)
-- [sm64ex-omm Compilation Script](https://raw.githubusercontent.com/Retired64/Buil-omm/main/compiler-omm.sh)
