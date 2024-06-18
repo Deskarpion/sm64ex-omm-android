@@ -1,6 +1,6 @@
 # Compile sm64ex-omm for Android
 
-This tutorial will guide you through the process of compiling the `sm64ex-omm` (Super Mario 64 EX - Offline Mario Maker) for Android using Termux.
+This tutorial will guide you through the process of compiling the `sm64ex-omm` (Super Mario 64 EX - Odyssey Mario Moveset) for Android using Termux.
 
 ## Prerequisites
 
